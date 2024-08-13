@@ -1,2 +1,24 @@
 # print-CSV-in-terminal
 print CSV file in terminal with left right center justify
+example :
+```
+------------------------------------------------
+State Code|State Name|Country Code|Country Name|
+------------------------------------------------
+   BDS    |Badakhshan|     AF     |Afghanistan |
+   BDG    | Badghis  |     AF     |Afghanistan |
+   BGL    | Baghlan  |     AF     |Afghanistan |
+   BAL    |  Balkh   |     AF     |Afghanistan |
+   BAM    |  Bamyan  |     AF     |Afghanistan |
+   DAY    | Daykundi |     AF     |Afghanistan |
+   FRA    |  Farah   |     AF     |Afghanistan |
+   FYB    |  Faryab  |     AF     |Afghanistan |
+   GHA    |  Ghazni  |     AF     |Afghanistan |
+   GHO    |   Ghōr   |     AF     |Afghanistan |
+   HEL    | Helmand  |     AF     |Afghanistan |
+   HER    |  Herat   |     AF     |Afghanistan |
+   JOW    | Jowzjan  |     AF     |Afghanistan |
+   KAB    |  Kabul   |     AF     |Afghanistan |
+   KAN    | Kandahar |     AF     |Afghanistan |
+------------------------------------------------
+```
